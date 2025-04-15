@@ -1,0 +1,1 @@
+web: gunicorn pams_project.wsgi
